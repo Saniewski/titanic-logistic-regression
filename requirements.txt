@@ -5,3 +5,5 @@ matplotlib
 seaborn
 cufflinks
 jupyter
+plotly
+dash
